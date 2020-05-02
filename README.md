@@ -31,21 +31,21 @@ Scenario 1
  
   Fingerprints             |  Test Points
 :-------------------------:|:-------------------------:
-![](https://github.com/ssadowsk/Raw-RSSI-Dataset-2/blob/master/Images/Scenario1_Fingerprints.png)  |  ![](https://github.com/ssadowsk/Raw-RSSI-Dataset-2/blob/master/Images/Scenario1_Tests.png)
+![](https://github.com/pspachos/Raw-RSSI-Dataset-for-Indoor-Localization-Fingerprinting/blob/master/img/Scenario1_Fingerprints.png)  |  ![](https://github.com/pspachos/Raw-RSSI-Dataset-for-Indoor-Localization-Fingerprinting/blob/master/img/Scenario1_Tests.png)
 
   <p align="center">
   Scenario 2
  
   Fingerprints             |  Test Points
 :-------------------------:|:-------------------------:
-![](https://github.com/ssadowsk/Raw-RSSI-Dataset-2/blob/master/Images/Scenario2_Fingerprints.png)  |  ![](https://github.com/ssadowsk/Raw-RSSI-Dataset-2/blob/master/Images/Scenario2_Tests.png)
+![](https://github.com/pspachos/Raw-RSSI-Dataset-for-Indoor-Localization-Fingerprinting/blob/master/img/Scenario2_Fingerprints.png)  |  ![](https://github.com/pspachos/Raw-RSSI-Dataset-for-Indoor-Localization-Fingerprinting/blob/master/img/Scenario2_Tests.png)
 
 <p align="center">
 Scenario 3
  
   Fingerprints             |  Test Points
 :-------------------------:|:-------------------------:
-![](https://github.com/ssadowsk/Raw-RSSI-Dataset-2/blob/master/Images/Scenario3_Fingerprints.png)  |  ![](https://github.com/ssadowsk/Raw-RSSI-Dataset-2/blob/master/Images/Scenario3_Tests.png)
+![](https://github.com/pspachos/Raw-RSSI-Dataset-for-Indoor-Localization-Fingerprinting/blob/master/img/Scenario3_Fingerprints.png)  |  ![](https://github.com/pspachos/Raw-RSSI-Dataset-for-Indoor-Localization-Fingerprinting/blob/master/img/Scenario3_Tests.png)
   
   </p>
   
