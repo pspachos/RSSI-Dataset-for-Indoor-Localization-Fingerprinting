@@ -9,7 +9,7 @@ This RSSI Dataset is a comprehensive set of Received Signal Strength Indicator (
  
   <p align="center">
 Equipment used in experimentation
-<img src="https://github.com/ssadowsk/Raw-RSSI-Dataset-2/blob/master/Images/equipment.jpg">
+<img src="https://github.com/pspachos/Raw-RSSI-Dataset-for-Indoor-Localization-Fingerprinting/blob/master/img/equipment.jpg">
  </p>
  
  # Experiment
