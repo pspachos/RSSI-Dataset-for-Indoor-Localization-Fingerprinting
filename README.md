@@ -53,7 +53,7 @@ Scenario 3
   
   </p>
   
- # Related Publications
+ # Related Publication
  
 S. Sadowski, P. Spachos, K. Plataniotis, "Memoryless Techniques and Wireless Technologies for Indoor Localization with the Internet of Things", IEEE Internet of Things Journal.
  
