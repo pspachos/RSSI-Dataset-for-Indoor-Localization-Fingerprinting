@@ -51,7 +51,7 @@ Scenario 3
   
  # Related Publications
  
- To be added...
+S. Sadowski, P. Spachos, K. Plataniotis, "Memoryless Techniques and Wireless Technologies for Indoor Localization with the Internet of Things", IEEE Internet of Things Journal.
  
  # Dataset
 The RSSI dataset is seperated based on the experimental scenario and furthermore on wireless technology (i.e. WiFi, BLE, and Zigbee). Each folder contains three additional folders seperating where the data was gathered (Pathloss, Database, and Tests). Pathloss contains 18 files measuring the RSSI at varying distances from the devices. The number of files located in Database and Tests varies based on the scenario.
