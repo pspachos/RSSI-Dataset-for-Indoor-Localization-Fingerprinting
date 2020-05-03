@@ -2,9 +2,9 @@
 
 This RSSI Dataset is a comprehensive set of Received Signal Strength Indicator (RSSI) readings gathered from three different types of scenarios. Three wireless technologies were used which consisted of:
  
- - Zigbee (IEEE 802.15.4)
+ - Zigbee (IEEE 802.15.4),
  - Bluetooth Low Energy (BLE), and
- - WiFi (IEEE 802.11n 2.4GHz band)
+ - WiFi (IEEE 802.11n 2.4GHz band).
 
  
 The scenarios took place in three rooms with different sizes and inteference levels. For the experimentation, the equipment utilized consisted of Raspberry Pi 3 Model Bs, Gimbal Series 10 Beacons, and Series 2 Xbees with Arduino Uno microcontrollers.
